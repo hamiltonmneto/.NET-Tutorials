@@ -1,0 +1,7 @@
+C:\Users\Hamil\source\repos\Server_Tutorial\Server_Tutorial\bin\Debug\Server_Tutorial.exe.config
+C:\Users\Hamil\source\repos\Server_Tutorial\Server_Tutorial\bin\Debug\Server_Tutorial.exe
+C:\Users\Hamil\source\repos\Server_Tutorial\Server_Tutorial\bin\Debug\Server_Tutorial.pdb
+C:\Users\Hamil\source\repos\Server_Tutorial\Server_Tutorial\obj\Debug\Server_Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Hamil\source\repos\Server_Tutorial\Server_Tutorial\obj\Debug\Server_Tutorial.exe
+C:\Users\Hamil\source\repos\Server_Tutorial\Server_Tutorial\obj\Debug\Server_Tutorial.pdb
+C:\Users\Hamil\source\repos\Server_Tutorial\Server_Tutorial\obj\Debug\Server_Tutorial.csprojResolveAssemblyReference.cache

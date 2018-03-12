@@ -1,0 +1,10 @@
+C:\Users\Hamil\source\repos\Client_tutorial\Client_tutorial\bin\Debug\Client_tutorial.exe.config
+C:\Users\Hamil\source\repos\Client_tutorial\Client_tutorial\bin\Debug\Client_tutorial.exe
+C:\Users\Hamil\source\repos\Client_tutorial\Client_tutorial\bin\Debug\Client_tutorial.pdb
+C:\Users\Hamil\source\repos\Client_tutorial\Client_tutorial\obj\Debug\Client_tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Hamil\source\repos\Client_tutorial\Client_tutorial\obj\Debug\Client_tutorial.Form1.resources
+C:\Users\Hamil\source\repos\Client_tutorial\Client_tutorial\obj\Debug\Client_tutorial.Properties.Resources.resources
+C:\Users\Hamil\source\repos\Client_tutorial\Client_tutorial\obj\Debug\Client_tutorial.csproj.GenerateResource.cache
+C:\Users\Hamil\source\repos\Client_tutorial\Client_tutorial\obj\Debug\Client_tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Hamil\source\repos\Client_tutorial\Client_tutorial\obj\Debug\Client_tutorial.exe
+C:\Users\Hamil\source\repos\Client_tutorial\Client_tutorial\obj\Debug\Client_tutorial.pdb
